@@ -27,7 +27,7 @@ import android.widget.TextView;
 /**
  * 用于加载Web页面
  *
- * @author sheyong
+ * Created by huanglei on 7/5/16.
  */
 @SuppressLint({"SetJavaScriptEnabled", "ValidFragment"})
 public class BroswerWebFragment extends BroswerBaseFragment {

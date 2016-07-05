@@ -8,6 +8,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+/**
+ * Created by huanglei on 7/5/16.
+ */
 @SuppressLint("ValidFragment")
 public class BroswerBaseFragment extends Fragment {
 
